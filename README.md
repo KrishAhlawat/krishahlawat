@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! I'm Krish, a passionate Full Stack and NextJS Developer from India.
 
+![Profile views](https://komarev.com/ghpvc/?username=KrishAhlawat&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishahlawatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishahlawat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krishahlawatt) 
